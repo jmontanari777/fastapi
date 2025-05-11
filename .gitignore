@@ -1,0 +1,17 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+
+# Otros
+*.log
